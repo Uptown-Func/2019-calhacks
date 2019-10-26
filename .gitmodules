@@ -1,0 +1,6 @@
+[submodule "2019-calhacks-frontend"]
+	path = 2019-calhacks-frontend
+	url = git@github.com:Uptown-Func/2019-calhacks-frontend.git
+[submodule "2019-calhacks-backend"]
+	path = 2019-calhacks-backend
+	url = https://github.com/Uptown-Func/2019-calhacks-backend
